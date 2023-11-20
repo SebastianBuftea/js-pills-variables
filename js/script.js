@@ -25,6 +25,11 @@ nome=`Marco`;
 console.log(nome);
 
 
+/* 
+esercizi del 20/11 */
 
-let greet= "Ciao, Mondo!";
+let greet="Ciao, Mondo!";
+console.log(greet);
+
+greet="Come stai, Mondo?";
 console.log(greet);
