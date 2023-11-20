@@ -31,5 +31,9 @@ esercizi del 20/11 */
 let greet="Ciao, Mondo!";
 console.log(greet);
 
-greet="Come stai, Mondo?";
+/* let greet="Come stai, Mondo?";
+console.log(greet);
+ */
+greet= greet +" "+ "Come stai";
+greet= `${greet} come stai`;
 console.log(greet);
