@@ -23,3 +23,8 @@ console.log(circle);
 let nome= `carlo`;
 nome=`Marco`;
 console.log(nome);
+
+
+
+let greet= "Ciao, Mondo!";
+console.log(greet);
