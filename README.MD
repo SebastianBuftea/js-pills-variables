@@ -27,8 +27,11 @@ Prova a dichiarare di nuovo la variabile chiamata `greet` assegnandole il valore
 Modifica il valore della variabile `greet` in modo da ottenere la stringa "Ciao, Mondo! Come stai?". Stampa il valore della variabile in console.
 *Nota:* Prova a eseguire questo esercizio sia con la concatenazione di stringhe sia con i template literals.
 
+**Esercizio 1**
+Crea una variabile `comparison` e assegnale il risultato del confronto tra due numeri per verificare se il primo numero è maggiore del secondo. Stampa sulla console il valore di `comparison`
 
 
+Assegna alla variabile `comparison` il risultato del confronto tra un numero e una stringa (che rappresenta un numero) per verificare se sono uguali. Stampa sulla console il valore di `comparison`
 
 
 
