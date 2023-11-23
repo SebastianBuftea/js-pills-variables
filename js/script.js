@@ -64,3 +64,6 @@ else{
   console.log(i);
 }
    */
+
+/* const numbers=[1,5,7,8,5,4,4,8] ;
+console.log(numbers); */
