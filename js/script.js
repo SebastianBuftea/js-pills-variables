@@ -54,8 +54,13 @@ else{
  */
 
 
-for(let i=1; i<=42; i++){
+/* for(let i=1; i<=42; i++){
   
   console.log(i);
   
+} */
+/* for(let i=42; i>=1; i=i-1){
+  
+  console.log(i);
 }
+   */
