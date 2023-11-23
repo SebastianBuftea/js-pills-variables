@@ -1,13 +1,13 @@
 
 /* ESERCIZIO 1 */
 
-let number= 100;
+/* let number= 100;
 console.log(number); 
 
 /* esercizio 2 */
-const PI= 3.14;
-console.log(PI); 
-
+/* const PI= 3.14;
+console.log(PI);  */
+ 
 /* esercizio 3 */
 
 /* const PI= 3.1416;
@@ -36,9 +36,9 @@ console.log(greet);
  */
 /* greet= greet +" "+ "Come stai";
 greet= `${greet} come stai`;
-console.log(greet); */
+/* console.log(greet); */
 
-
+/* 
 let num1=10;
 
 let comparison;
@@ -50,8 +50,12 @@ else{
   comparison= false;
 }
 
- console.log(comparison);
+ console.log(comparison); 
+ */
 
 
-
-
+for(let i=1; i<=42; i++){
+  
+  console.log(i);
+  
+}
