@@ -67,3 +67,6 @@ else{
 
 /* const numbers=[1,5,7,8,5,4,4,8] ;
 console.log(numbers); */
+
+const fruits=[`mela`, `banana`, `pesca`, `pera`, `albicocca`, `mango`, `kiwi`, `papaya`] ;
+console.log(fruits);
